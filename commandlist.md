@@ -1,10 +1,10 @@
 **List of Commands for PyBoat:**
 <br>
-> ping<br>
+> ping
   Pings the bot to see the reaction time.
   <br>
-> invite<br>
+> invite
   Invite the bot to your server.
   <br>
-> info<br>
+> info
   Shows info for PyBoat.
